@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "High Transfer Markup Language", "Hyperlinks Machine Language", "None"],
+    "answer": 1
+  },
+  {
+    "question": "Which property is used to change text color in CSS?",
+    "options": ["font-color", "text-style", "color", "background-color"],
+    "answer": 3
+  },
+  {
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["//", "#", "/* */", "<!-- -->"],
+    "answer": 2
+  },
+  {
+    "question": "Which tag is used to insert an image in HTML?",
+    "options": ["<img>", "<image>", "<pic>", "<src>"],
+    "answer": 1
+  },
+  {
+    "question": "Which CSS property is used to change the background color?",
+    "options": ["color", "background-style", "paint", "background-color"],
+    "answer": 4
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["function", "define", "def", "method"],
+       "answer": 3
+  },
+  {
+    "question": "Which data type is used to store True/False values in Python?",
+    "options": ["Logic", "Boolean", "Binary", "Bit"],
+    "answer": 2
+  },
+  {
+    "question": "CSS stands for?",
+       "options": ["Computer Style Sheet", "Cascading Style Sheets", "Custom Style Sheet", "Creative Styling System"],
+    "answer": 2
+  },
+  {
+    "question": "JavaScript is used for?",
+    "options": ["Styling websites", "Adding functionality to websites", "Storing data in the database", "Building UI only"],
+    "answer": 2
+  },
+  {
+    "question": "Which file extension belongs to Python?",
+    "options": [".pt", ".py", ".code", ".js"],
+    "answer": 2
+  }
+]
